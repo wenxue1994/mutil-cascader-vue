@@ -1,438 +1,3569 @@
-{
-  "data":[
-      {
-          "value":10001,
-          "check":false,
-          "little":false,
-          "label":"游戏",
-          "children":[
-              {
-                  "value":10101,
-                  "check":false,
-                  "little":false,
-                  "label":"休闲时间"
-              },
-              {
-                  "value":10102,
-                  "check":false,
-                  "little":false,
-                  "label":"跑酷竞速"
-              },
-              {
-                  "value":10103,
-                  "check":false,
-                  "little":false,
-                  "label":"宝石消除"
-              },
-              {
-                  "value":10104,
-                  "check":false,
-                  "little":false,
-                  "label":"网络游戏"
-              },
-              {
-                  "value":10105,
-                  "check":false,
-                  "little":false,
-                  "label":"动作射击"
-              },
-              {
-                  "value":10106,
-                  "check":false,
-                  "little":false,
-                  "label":"扑克棋牌"
-              },
-              {
-                  "value":10107,
-                  "check":false,
-                  "little":false,
-                  "label":"儿童益智"
-              },
-              {
-                  "value":10108,
-                  "check":false,
-                  "little":false,
-                  "label":"塔防守卫"
-              },
-              {
-                  "value":10109,
-                  "check":false,
-                  "little":false,
-                  "label":"体育格斗"
-              },
-              {
-                  "value":10110,
-                  "check":false,
-                  "little":false,
-                  "label":"角色扮演"
-              },
-              {
-                  "value":10111,
-                  "check":false,
-                  "little":false,
-                  "label":"经营策略"
-              }
-          ]
-      },
-      {
-          "value":10002,
-          "check":false,
-          "little":false,
-          "label":"家装百货",
-          "children":[
-              {
-                  "value":10201,
-                  "check":false,
-                  "little":false,
-                  "label":"家装建材"
-              },
-              {
-                  "value":10202,
-                  "check":false,
-                  "little":false,
-                  "label":"家居家纺"
-              },
-              {
-                  "value":10203,
-                  "check":false,
-                  "little":false,
-                  "label":"家用电器"
-              },
-              {
-                  "value":10204,
-                  "check":false,
-                  "little":false,
-                  "label":"家电维修"
-              },
-              {
-                  "value":10205,
-                  "check":false,
-                  "little":false,
-                  "label":"日用百货"
-              }
-          ]
-      },
-      {
-          "children":[
-              {
-                  "value":10301,
-                  "check":false,
-                  "little":false,
-                  "label":"股票基金"
-              },
-              {
-                  "value":10302,
-                  "check":false,
-                  "little":false,
-                  "label":"保险"
-              },
-              {
-                  "value":10303,
-                  "check":false,
-                  "little":false,
-                  "label":"彩票"
-              },
-              {
-                  "value":10304,
-                  "check":false,
-                  "little":false,
-                  "label":"期货外汇"
-              },
-              {
-                  "value":10305,
-                  "check":false,
-                  "little":false,
-                  "label":"银行理财"
-              },
-              {
-                  "value":10306,
-                  "check":false,
-                  "little":false,
-                  "label":"互联网金融"
-              },
-              {
-                  "value":10307,
-                  "check":false,
-                  "little":false,
-                  "label":"贵金属"
-              }
-          ],
-          "value":10003,
-          "check":false,
-          "little":false,
-          "label":"金融理财"
-      },
-      {
-          "children":[
-              {
-                  "value":10401,
-                  "check":false,
-                  "little":false,
-                  "label":"学前教育"
-              },
-              {
-                  "value":10402,
-                  "check":false,
-                  "little":false,
-                  "label":"中小学教育"
-              },
-              {
-                  "value":10403,
-                  "check":false,
-                  "little":false,
-                  "label":"大学教育"
-              },
-              {
-                  "value":10404,
-                  "check":false,
-                  "little":false,
-                  "label":"职业教育"
-              },
-              {
-                  "value":10405,
-                  "check":false,
-                  "little":false,
-                  "label":"学历教育"
-              },
-              {
-                  "value":10406,
-                  "check":false,
-                  "little":false,
-                  "label":"语言培训"
-              },
-              {
-                  "value":10407,
-                  "check":false,
-                  "little":false,
-                  "label":"IT培训"
-              },
-              {
-                  "value":10408,
-                  "check":false,
-                  "little":false,
-                  "label":"公务员考试"
-              },
-              {
-                  "value":10409,
-                  "check":false,
-                  "little":false,
-                  "label":"出国留学"
-              },
-              {
-                  "value":10410,
-                  "check":false,
-                  "little":false,
-                  "label":"技能培训"
-              },
-              {
-                  "value":10411,
-                  "check":false,
-                  "little":false,
-                  "label":"拓展训练"
-              }
-          ],
-          "value":10004,
-          "check":false,
-          "little":false,
-          "label":"教育培训"
-      },
-      {
-          "children":[
-              {
-                  "value":10501,
-                  "check":false,
-                  "little":false,
-                  "label":"本地周边游"
-              },
-              {
-                  "value":10502,
-                  "check":false,
-                  "little":false,
-                  "label":"国内游"
-              },
-              {
-                  "value":10503,
-                  "check":false,
-                  "little":false,
-                  "label":"港澳台游"
-              },
-              {
-                  "value":10504,
-                  "check":false,
-                  "little":false,
-                  "label":"境外游"
-              },
-              {
-                  "value":10505,
-                  "check":false,
-                  "little":false,
-                  "label":"户外探险"
-              },
-              {
-                  "value":10506,
-                  "check":false,
-                  "little":false,
-                  "label":"主题旅游"
-              },
-              {
-                  "value":10507,
-                  "check":false,
-                  "little":false,
-                  "label":"酒店住宿"
-              },
-              {
-                  "value":10508,
-                  "check":false,
-                  "little":false,
-                  "label":"交通票务"
-              }
-          ],
-          "value":10005,
-          "tag":"new",
-          "check":false,
-          "little":false,
-          "label":"旅游出行"
-      },
-      {
-          "children":[
-              {
-                  "value":10601,
-                  "check":false,
-                  "little":false,
-                  "label":"时尚女装"
-              },
-              {
-                  "value":10602,
-                  "check":false,
-                  "little":false,
-                  "label":"精品男装"
-              },
-              {
-                  "value":10603,
-                  "check":false,
-                  "little":false,
-                  "label":"女鞋"
-              },
-              {
-                  "value":10604,
-                  "check":false,
-                  "little":false,
-                  "label":"男鞋"
-              },
-              {
-                  "value":10605,
-                  "check":false,
-                  "little":false,
-                  "label":"内衣"
-              },
-              {
-                  "value":10606,
-                  "check":false,
-                  "little":false,
-                  "label":"珠宝配饰"
-              },
-              {
-                  "value":10607,
-                  "check":false,
-                  "little":false,
-                  "label":"童装童鞋"
-              },
-              {
-                  "value":10608,
-                  "check":false,
-                  "little":false,
-                  "label":"箱包皮具"
-              },
-              {
-                  "value":10609,
-                  "check":false,
-                  "little":false,
-                  "label":"手表"
-              }
-          ],
-          "value":10006,
-          "tag":"new",
-          "check":false,
-          "little":false,
-          "label":"服饰箱包"
-      },
-      {
-          "children":[
-              {
-                  "value":10701,
-                  "check":false,
-                  "little":false,
-                  "label":"低档车"
-              },
-              {
-                  "value":10702,
-                  "check":false,
-                  "little":false,
-                  "label":"中档车"
-              },
-              {
-                  "value":10703,
-                  "check":false,
-                  "little":false,
-                  "label":"高档车"
-              },
-              {
-                  "value":10704,
-                  "check":false,
-                  "little":false,
-                  "label":"二手车"
-              },
-              {
-                  "value":10705,
-                  "check":false,
-                  "little":false,
-                  "label":"租车"
-              },
-              {
-                  "value":10706,
-                  "check":false,
-                  "little":false,
-                  "label":"车辆养护"
-              }
-          ],
-          "value":10007,
-          "tag":"new",
-          "check":false,
-          "little":false,
-          "label":"汽车"
-      },
-      {
-          "children":[
-              {
-                  "value":10801,
-                  "check":false,
-                  "little":false,
-                  "label":"减肥瘦身"
-              },
-              {
-                  "value":10802,
-                  "check":false,
-                  "little":false,
-                  "label":"美容整形"
-              },
-              {
-                  "value":10803,
-                  "check":false,
-                  "little":false,
-                  "label":"美发护发"
-              },
-              {
-                  "value":10804,
-                  "check":false,
-                  "little":false,
-                  "label":"化妆护肤"
-              }
-          ],
-          "value":10008,
-          "tag":"new",
-          "check":false,
-          "little":false,
-          "label":"美容化妆"
-      }
-  ]
-}
+[
+    {
+        "value": 11,
+        "check": false,
+        "little": false,
+        "label": "北京",
+        "children": [
+            {
+                "value": 110101,
+                "check": false,
+                "little": false,
+                "label": "东城",
+                "children": []
+            },
+            {
+                "value": 110102,
+                "check": false,
+                "little": false,
+                "label": "西城",
+                "children": []
+            },
+            {
+                "value": 110105,
+                "check": false,
+                "little": false,
+                "label": "朝阳",
+                "children": []
+            },
+            {
+                "value": 110106,
+                "check": false,
+                "little": false,
+                "label": "丰台",
+                "children": []
+            },
+            {
+                "value": 110107,
+                "check": false,
+                "little": false,
+                "label": "石景山",
+                "children": []
+            },
+            {
+                "value": 110108,
+                "check": false,
+                "little": false,
+                "label": "海淀",
+                "children": []
+            },
+            {
+                "value": 110109,
+                "check": false,
+                "little": false,
+                "label": "门头沟",
+                "children": []
+            },
+            {
+                "value": 110111,
+                "check": false,
+                "little": false,
+                "label": "房山",
+                "children": []
+            },
+            {
+                "value": 110112,
+                "check": false,
+                "little": false,
+                "label": "通州",
+                "children": []
+            },
+            {
+                "value": 110113,
+                "check": false,
+                "little": false,
+                "label": "顺义",
+                "children": []
+            },
+            {
+                "value": 110114,
+                "check": false,
+                "little": false,
+                "label": "昌平",
+                "children": []
+            },
+            {
+                "value": 110115,
+                "check": false,
+                "little": false,
+                "label": "大兴",
+                "children": []
+            },
+            {
+                "value": 110116,
+                "check": false,
+                "little": false,
+                "label": "怀柔",
+                "children": []
+            },
+            {
+                "value": 110117,
+                "check": false,
+                "little": false,
+                "label": "平谷",
+                "children": []
+            },
+            {
+                "value": 110118,
+                "check": false,
+                "little": false,
+                "label": "密云",
+                "children": []
+            },
+            {
+                "value": 110119,
+                "check": false,
+                "little": false,
+                "label": "延庆",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 12,
+        "check": false,
+        "little": false,
+        "label": "天津",
+        "children": [
+            {
+                "value": 120101,
+                "check": false,
+                "little": false,
+                "label": "和平",
+                "children": []
+            },
+            {
+                "value": 120102,
+                "check": false,
+                "little": false,
+                "label": "河东",
+                "children": []
+            },
+            {
+                "value": 120103,
+                "check": false,
+                "little": false,
+                "label": "河西",
+                "children": []
+            },
+            {
+                "value": 120104,
+                "check": false,
+                "little": false,
+                "label": "南开",
+                "children": []
+            },
+            {
+                "value": 120105,
+                "check": false,
+                "little": false,
+                "label": "河北",
+                "children": []
+            },
+            {
+                "value": 120106,
+                "check": false,
+                "little": false,
+                "label": "红桥",
+                "children": []
+            },
+            {
+                "value": 120110,
+                "check": false,
+                "little": false,
+                "label": "东丽",
+                "children": []
+            },
+            {
+                "value": 120111,
+                "check": false,
+                "little": false,
+                "label": "西青",
+                "children": []
+            },
+            {
+                "value": 120112,
+                "check": false,
+                "little": false,
+                "label": "津南",
+                "children": []
+            },
+            {
+                "value": 120113,
+                "check": false,
+                "little": false,
+                "label": "北辰",
+                "children": []
+            },
+            {
+                "value": 120114,
+                "check": false,
+                "little": false,
+                "label": "武清",
+                "children": []
+            },
+            {
+                "value": 120115,
+                "check": false,
+                "little": false,
+                "label": "宝坻",
+                "children": []
+            },
+            {
+                "value": 120116,
+                "check": false,
+                "little": false,
+                "label": "滨海",
+                "children": []
+            },
+            {
+                "value": 120117,
+                "check": false,
+                "little": false,
+                "label": "宁河",
+                "children": []
+            },
+            {
+                "value": 120118,
+                "check": false,
+                "little": false,
+                "label": "静海",
+                "children": []
+            },
+            {
+                "value": 120225,
+                "check": false,
+                "little": false,
+                "label": "蓟县",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 13,
+        "check": false,
+        "little": false,
+        "label": "河北",
+        "children": [
+            {
+                "value": 130100,
+                "check": false,
+                "little": false,
+                "label": "石家庄",
+                "children": []
+            },
+            {
+                "value": 130200,
+                "check": false,
+                "little": false,
+                "label": "唐山",
+                "children": []
+            },
+            {
+                "value": 130300,
+                "check": false,
+                "little": false,
+                "label": "秦皇岛",
+                "children": []
+            },
+            {
+                "value": 130400,
+                "check": false,
+                "little": false,
+                "label": "邯郸",
+                "children": []
+            },
+            {
+                "value": 130500,
+                "check": false,
+                "little": false,
+                "label": "邢台",
+                "children": []
+            },
+            {
+                "value": 130600,
+                "check": false,
+                "little": false,
+                "label": "保定",
+                "children": []
+            },
+            {
+                "value": 130700,
+                "check": false,
+                "little": false,
+                "label": "张家口",
+                "children": []
+            },
+            {
+                "value": 130800,
+                "check": false,
+                "little": false,
+                "label": "承德",
+                "children": []
+            },
+            {
+                "value": 130900,
+                "check": false,
+                "little": false,
+                "label": "沧州",
+                "children": []
+            },
+            {
+                "value": 131000,
+                "check": false,
+                "little": false,
+                "label": "廊坊",
+                "children": []
+            },
+            {
+                "value": 131100,
+                "check": false,
+                "little": false,
+                "label": "衡水",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 14,
+        "check": false,
+        "little": false,
+        "label": "山西",
+        "children": [
+            {
+                "value": 140100,
+                "check": false,
+                "little": false,
+                "label": "太原",
+                "children": []
+            },
+            {
+                "value": 140200,
+                "check": false,
+                "little": false,
+                "label": "大同",
+                "children": []
+            },
+            {
+                "value": 140300,
+                "check": false,
+                "little": false,
+                "label": "阳泉",
+                "children": []
+            },
+            {
+                "value": 140400,
+                "check": false,
+                "little": false,
+                "label": "长治",
+                "children": []
+            },
+            {
+                "value": 140500,
+                "check": false,
+                "little": false,
+                "label": "晋城",
+                "children": []
+            },
+            {
+                "value": 140600,
+                "check": false,
+                "little": false,
+                "label": "朔州",
+                "children": []
+            },
+            {
+                "value": 140700,
+                "check": false,
+                "little": false,
+                "label": "晋中",
+                "children": []
+            },
+            {
+                "value": 140800,
+                "check": false,
+                "little": false,
+                "label": "运城",
+                "children": []
+            },
+            {
+                "value": 140900,
+                "check": false,
+                "little": false,
+                "label": "忻州",
+                "children": []
+            },
+            {
+                "value": 141000,
+                "check": false,
+                "little": false,
+                "label": "临汾",
+                "children": []
+            },
+            {
+                "value": 141100,
+                "check": false,
+                "little": false,
+                "label": "吕梁",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 15,
+        "check": false,
+        "little": false,
+        "label": "内蒙古",
+        "children": [
+            {
+                "value": 150100,
+                "check": false,
+                "little": false,
+                "label": "呼和浩特",
+                "children": []
+            },
+            {
+                "value": 150200,
+                "check": false,
+                "little": false,
+                "label": "包头",
+                "children": []
+            },
+            {
+                "value": 150300,
+                "check": false,
+                "little": false,
+                "label": "乌海",
+                "children": []
+            },
+            {
+                "value": 150400,
+                "check": false,
+                "little": false,
+                "label": "赤峰",
+                "children": []
+            },
+            {
+                "value": 150500,
+                "check": false,
+                "little": false,
+                "label": "通辽",
+                "children": []
+            },
+            {
+                "value": 150600,
+                "check": false,
+                "little": false,
+                "label": "鄂尔多斯",
+                "children": []
+            },
+            {
+                "value": 150700,
+                "check": false,
+                "little": false,
+                "label": "呼伦贝尔",
+                "children": []
+            },
+            {
+                "value": 150800,
+                "check": false,
+                "little": false,
+                "label": "巴彦淖尔",
+                "children": []
+            },
+            {
+                "value": 150900,
+                "check": false,
+                "little": false,
+                "label": "乌兰察布",
+                "children": []
+            },
+            {
+                "value": 152200,
+                "check": false,
+                "little": false,
+                "label": "兴安",
+                "children": []
+            },
+            {
+                "value": 152500,
+                "check": false,
+                "little": false,
+                "label": "锡林郭勒",
+                "children": []
+            },
+            {
+                "value": 152900,
+                "check": false,
+                "little": false,
+                "label": "阿拉善",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 21,
+        "check": false,
+        "little": false,
+        "label": "辽宁",
+        "children": [
+            {
+                "value": 210100,
+                "check": false,
+                "little": false,
+                "label": "沈阳",
+                "children": []
+            },
+            {
+                "value": 210200,
+                "check": false,
+                "little": false,
+                "label": "大连",
+                "children": []
+            },
+            {
+                "value": 210300,
+                "check": false,
+                "little": false,
+                "label": "鞍山",
+                "children": []
+            },
+            {
+                "value": 210400,
+                "check": false,
+                "little": false,
+                "label": "抚顺",
+                "children": []
+            },
+            {
+                "value": 210500,
+                "check": false,
+                "little": false,
+                "label": "本溪",
+                "children": []
+            },
+            {
+                "value": 210600,
+                "check": false,
+                "little": false,
+                "label": "丹东",
+                "children": []
+            },
+            {
+                "value": 210700,
+                "check": false,
+                "little": false,
+                "label": "锦州",
+                "children": []
+            },
+            {
+                "value": 210800,
+                "check": false,
+                "little": false,
+                "label": "营口",
+                "children": []
+            },
+            {
+                "value": 210900,
+                "check": false,
+                "little": false,
+                "label": "阜新",
+                "children": []
+            },
+            {
+                "value": 211000,
+                "check": false,
+                "little": false,
+                "label": "辽阳",
+                "children": []
+            },
+            {
+                "value": 211100,
+                "check": false,
+                "little": false,
+                "label": "盘锦",
+                "children": []
+            },
+            {
+                "value": 211200,
+                "check": false,
+                "little": false,
+                "label": "铁岭",
+                "children": []
+            },
+            {
+                "value": 211300,
+                "check": false,
+                "little": false,
+                "label": "朝阳",
+                "children": []
+            },
+            {
+                "value": 211400,
+                "check": false,
+                "little": false,
+                "label": "葫芦岛",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 22,
+        "check": false,
+        "little": false,
+        "label": "吉林",
+        "children": [
+            {
+                "value": 220100,
+                "check": false,
+                "little": false,
+                "label": "长春",
+                "children": []
+            },
+            {
+                "value": 220200,
+                "check": false,
+                "little": false,
+                "label": "吉林",
+                "children": []
+            },
+            {
+                "value": 220300,
+                "check": false,
+                "little": false,
+                "label": "四平",
+                "children": []
+            },
+            {
+                "value": 220400,
+                "check": false,
+                "little": false,
+                "label": "辽源",
+                "children": []
+            },
+            {
+                "value": 220500,
+                "check": false,
+                "little": false,
+                "label": "通化",
+                "children": []
+            },
+            {
+                "value": 220600,
+                "check": false,
+                "little": false,
+                "label": "白山",
+                "children": []
+            },
+            {
+                "value": 220700,
+                "check": false,
+                "little": false,
+                "label": "松原",
+                "children": []
+            },
+            {
+                "value": 220800,
+                "check": false,
+                "little": false,
+                "label": "白城",
+                "children": []
+            },
+            {
+                "value": 222400,
+                "check": false,
+                "little": false,
+                "label": "延边",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 23,
+        "check": false,
+        "little": false,
+        "label": "黑龙江",
+        "children": [
+            {
+                "value": 230100,
+                "check": false,
+                "little": false,
+                "label": "哈尔滨",
+                "children": []
+            },
+            {
+                "value": 230200,
+                "check": false,
+                "little": false,
+                "label": "齐齐哈尔",
+                "children": []
+            },
+            {
+                "value": 230300,
+                "check": false,
+                "little": false,
+                "label": "鸡西",
+                "children": []
+            },
+            {
+                "value": 230400,
+                "check": false,
+                "little": false,
+                "label": "鹤岗",
+                "children": []
+            },
+            {
+                "value": 230500,
+                "check": false,
+                "little": false,
+                "label": "双鸭山",
+                "children": []
+            },
+            {
+                "value": 230600,
+                "check": false,
+                "little": false,
+                "label": "大庆",
+                "children": []
+            },
+            {
+                "value": 230700,
+                "check": false,
+                "little": false,
+                "label": "伊春",
+                "children": []
+            },
+            {
+                "value": 230800,
+                "check": false,
+                "little": false,
+                "label": "佳木斯",
+                "children": []
+            },
+            {
+                "value": 230900,
+                "check": false,
+                "little": false,
+                "label": "七台河",
+                "children": []
+            },
+            {
+                "value": 231000,
+                "check": false,
+                "little": false,
+                "label": "牡丹江",
+                "children": []
+            },
+            {
+                "value": 231100,
+                "check": false,
+                "little": false,
+                "label": "黑河",
+                "children": []
+            },
+            {
+                "value": 231200,
+                "check": false,
+                "little": false,
+                "label": "绥化",
+                "children": []
+            },
+            {
+                "value": 232700,
+                "check": false,
+                "little": false,
+                "label": "大兴安岭",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 31,
+        "check": false,
+        "little": false,
+        "label": "上海",
+        "children": [
+            {
+                "value": 310101,
+                "check": false,
+                "little": false,
+                "label": "黄浦",
+                "children": []
+            },
+            {
+                "value": 310104,
+                "check": false,
+                "little": false,
+                "label": "徐汇",
+                "children": []
+            },
+            {
+                "value": 310105,
+                "check": false,
+                "little": false,
+                "label": "长宁",
+                "children": []
+            },
+            {
+                "value": 310106,
+                "check": false,
+                "little": false,
+                "label": "静安",
+                "children": []
+            },
+            {
+                "value": 310107,
+                "check": false,
+                "little": false,
+                "label": "普陀",
+                "children": []
+            },
+            {
+                "value": 310109,
+                "check": false,
+                "little": false,
+                "label": "虹口",
+                "children": []
+            },
+            {
+                "value": 310110,
+                "check": false,
+                "little": false,
+                "label": "杨浦",
+                "children": []
+            },
+            {
+                "value": 310112,
+                "check": false,
+                "little": false,
+                "label": "闵行",
+                "children": []
+            },
+            {
+                "value": 310113,
+                "check": false,
+                "little": false,
+                "label": "宝山",
+                "children": []
+            },
+            {
+                "value": 310114,
+                "check": false,
+                "little": false,
+                "label": "嘉定",
+                "children": []
+            },
+            {
+                "value": 310115,
+                "check": false,
+                "little": false,
+                "label": "浦东",
+                "children": []
+            },
+            {
+                "value": 310116,
+                "check": false,
+                "little": false,
+                "label": "金山",
+                "children": []
+            },
+            {
+                "value": 310117,
+                "check": false,
+                "little": false,
+                "label": "松江",
+                "children": []
+            },
+            {
+                "value": 310118,
+                "check": false,
+                "little": false,
+                "label": "青浦",
+                "children": []
+            },
+            {
+                "value": 310120,
+                "check": false,
+                "little": false,
+                "label": "奉贤",
+                "children": []
+            },
+            {
+                "value": 310151,
+                "check": false,
+                "little": false,
+                "label": "崇明",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 32,
+        "check": false,
+        "little": false,
+        "label": "江苏",
+        "children": [
+            {
+                "value": 320100,
+                "check": false,
+                "little": false,
+                "label": "南京",
+                "children": []
+            },
+            {
+                "value": 320200,
+                "check": false,
+                "little": false,
+                "label": "无锡",
+                "children": []
+            },
+            {
+                "value": 320300,
+                "check": false,
+                "little": false,
+                "label": "徐州",
+                "children": []
+            },
+            {
+                "value": 320400,
+                "check": false,
+                "little": false,
+                "label": "常州",
+                "children": []
+            },
+            {
+                "value": 320500,
+                "check": false,
+                "little": false,
+                "label": "苏州",
+                "children": []
+            },
+            {
+                "value": 320600,
+                "check": false,
+                "little": false,
+                "label": "南通",
+                "children": []
+            },
+            {
+                "value": 320700,
+                "check": false,
+                "little": false,
+                "label": "连云港",
+                "children": []
+            },
+            {
+                "value": 320800,
+                "check": false,
+                "little": false,
+                "label": "淮安",
+                "children": []
+            },
+            {
+                "value": 320900,
+                "check": false,
+                "little": false,
+                "label": "盐城",
+                "children": []
+            },
+            {
+                "value": 321000,
+                "check": false,
+                "little": false,
+                "label": "扬州",
+                "children": []
+            },
+            {
+                "value": 321100,
+                "check": false,
+                "little": false,
+                "label": "镇江",
+                "children": []
+            },
+            {
+                "value": 321200,
+                "check": false,
+                "little": false,
+                "label": "泰州",
+                "children": []
+            },
+            {
+                "value": 321300,
+                "check": false,
+                "little": false,
+                "label": "宿迁",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 33,
+        "check": false,
+        "little": false,
+        "label": "浙江",
+        "children": [
+            {
+                "value": 330100,
+                "check": false,
+                "little": false,
+                "label": "杭州",
+                "children": []
+            },
+            {
+                "value": 330200,
+                "check": false,
+                "little": false,
+                "label": "宁波",
+                "children": []
+            },
+            {
+                "value": 330300,
+                "check": false,
+                "little": false,
+                "label": "温州",
+                "children": []
+            },
+            {
+                "value": 330400,
+                "check": false,
+                "little": false,
+                "label": "嘉兴",
+                "children": []
+            },
+            {
+                "value": 330500,
+                "check": false,
+                "little": false,
+                "label": "湖州",
+                "children": []
+            },
+            {
+                "value": 330600,
+                "check": false,
+                "little": false,
+                "label": "绍兴",
+                "children": []
+            },
+            {
+                "value": 330700,
+                "check": false,
+                "little": false,
+                "label": "金华",
+                "children": []
+            },
+            {
+                "value": 330800,
+                "check": false,
+                "little": false,
+                "label": "衢州",
+                "children": []
+            },
+            {
+                "value": 330900,
+                "check": false,
+                "little": false,
+                "label": "舟山",
+                "children": []
+            },
+            {
+                "value": 331000,
+                "check": false,
+                "little": false,
+                "label": "台州",
+                "children": []
+            },
+            {
+                "value": 331100,
+                "check": false,
+                "little": false,
+                "label": "丽水",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 34,
+        "check": false,
+        "little": false,
+        "label": "安徽",
+        "children": [
+            {
+                "value": 340100,
+                "check": false,
+                "little": false,
+                "label": "合肥",
+                "children": []
+            },
+            {
+                "value": 340200,
+                "check": false,
+                "little": false,
+                "label": "芜湖",
+                "children": []
+            },
+            {
+                "value": 340300,
+                "check": false,
+                "little": false,
+                "label": "蚌埠",
+                "children": []
+            },
+            {
+                "value": 340400,
+                "check": false,
+                "little": false,
+                "label": "淮南",
+                "children": []
+            },
+            {
+                "value": 340500,
+                "check": false,
+                "little": false,
+                "label": "马鞍山",
+                "children": []
+            },
+            {
+                "value": 340600,
+                "check": false,
+                "little": false,
+                "label": "淮北",
+                "children": []
+            },
+            {
+                "value": 340700,
+                "check": false,
+                "little": false,
+                "label": "铜陵",
+                "children": []
+            },
+            {
+                "value": 340800,
+                "check": false,
+                "little": false,
+                "label": "安庆",
+                "children": []
+            },
+            {
+                "value": 341000,
+                "check": false,
+                "little": false,
+                "label": "黄山",
+                "children": []
+            },
+            {
+                "value": 341100,
+                "check": false,
+                "little": false,
+                "label": "滁州",
+                "children": []
+            },
+            {
+                "value": 341200,
+                "check": false,
+                "little": false,
+                "label": "阜阳",
+                "children": []
+            },
+            {
+                "value": 341300,
+                "check": false,
+                "little": false,
+                "label": "宿州",
+                "children": []
+            },
+            {
+                "value": 341500,
+                "check": false,
+                "little": false,
+                "label": "六安",
+                "children": []
+            },
+            {
+                "value": 341600,
+                "check": false,
+                "little": false,
+                "label": "亳州",
+                "children": []
+            },
+            {
+                "value": 341700,
+                "check": false,
+                "little": false,
+                "label": "池州",
+                "children": []
+            },
+            {
+                "value": 341800,
+                "check": false,
+                "little": false,
+                "label": "宣城",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 35,
+        "check": false,
+        "little": false,
+        "label": "福建",
+        "children": [
+            {
+                "value": 350100,
+                "check": false,
+                "little": false,
+                "label": "福州",
+                "children": []
+            },
+            {
+                "value": 350200,
+                "check": false,
+                "little": false,
+                "label": "厦门",
+                "children": []
+            },
+            {
+                "value": 350300,
+                "check": false,
+                "little": false,
+                "label": "莆田",
+                "children": []
+            },
+            {
+                "value": 350400,
+                "check": false,
+                "little": false,
+                "label": "三明",
+                "children": []
+            },
+            {
+                "value": 350500,
+                "check": false,
+                "little": false,
+                "label": "泉州",
+                "children": []
+            },
+            {
+                "value": 350600,
+                "check": false,
+                "little": false,
+                "label": "漳州",
+                "children": []
+            },
+            {
+                "value": 350700,
+                "check": false,
+                "little": false,
+                "label": "南平",
+                "children": []
+            },
+            {
+                "value": 350800,
+                "check": false,
+                "little": false,
+                "label": "龙岩",
+                "children": []
+            },
+            {
+                "value": 350900,
+                "check": false,
+                "little": false,
+                "label": "宁德",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 36,
+        "check": false,
+        "little": false,
+        "label": "江西",
+        "children": [
+            {
+                "value": 360100,
+                "check": false,
+                "little": false,
+                "label": "南昌",
+                "children": []
+            },
+            {
+                "value": 360200,
+                "check": false,
+                "little": false,
+                "label": "景德镇",
+                "children": []
+            },
+            {
+                "value": 360300,
+                "check": false,
+                "little": false,
+                "label": "萍乡",
+                "children": []
+            },
+            {
+                "value": 360400,
+                "check": false,
+                "little": false,
+                "label": "九江",
+                "children": []
+            },
+            {
+                "value": 360500,
+                "check": false,
+                "little": false,
+                "label": "新余",
+                "children": []
+            },
+            {
+                "value": 360600,
+                "check": false,
+                "little": false,
+                "label": "鹰潭",
+                "children": []
+            },
+            {
+                "value": 360700,
+                "check": false,
+                "little": false,
+                "label": "赣州",
+                "children": []
+            },
+            {
+                "value": 360800,
+                "check": false,
+                "little": false,
+                "label": "吉安",
+                "children": []
+            },
+            {
+                "value": 360900,
+                "check": false,
+                "little": false,
+                "label": "宜春",
+                "children": []
+            },
+            {
+                "value": 361000,
+                "check": false,
+                "little": false,
+                "label": "抚州",
+                "children": []
+            },
+            {
+                "value": 361100,
+                "check": false,
+                "little": false,
+                "label": "上饶",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 37,
+        "check": false,
+        "little": false,
+        "label": "山东",
+        "children": [
+            {
+                "value": 370100,
+                "check": false,
+                "little": false,
+                "label": "济南",
+                "children": []
+            },
+            {
+                "value": 370200,
+                "check": false,
+                "little": false,
+                "label": "青岛",
+                "children": []
+            },
+            {
+                "value": 370300,
+                "check": false,
+                "little": false,
+                "label": "淄博",
+                "children": []
+            },
+            {
+                "value": 370400,
+                "check": false,
+                "little": false,
+                "label": "枣庄",
+                "children": []
+            },
+            {
+                "value": 370500,
+                "check": false,
+                "little": false,
+                "label": "东营",
+                "children": []
+            },
+            {
+                "value": 370600,
+                "check": false,
+                "little": false,
+                "label": "烟台",
+                "children": []
+            },
+            {
+                "value": 370700,
+                "check": false,
+                "little": false,
+                "label": "潍坊",
+                "children": []
+            },
+            {
+                "value": 370800,
+                "check": false,
+                "little": false,
+                "label": "济宁",
+                "children": []
+            },
+            {
+                "value": 370900,
+                "check": false,
+                "little": false,
+                "label": "泰安",
+                "children": []
+            },
+            {
+                "value": 371000,
+                "check": false,
+                "little": false,
+                "label": "威海",
+                "children": []
+            },
+            {
+                "value": 371100,
+                "check": false,
+                "little": false,
+                "label": "日照",
+                "children": []
+            },
+            {
+                "value": 371200,
+                "check": false,
+                "little": false,
+                "label": "莱芜",
+                "children": []
+            },
+            {
+                "value": 371300,
+                "check": false,
+                "little": false,
+                "label": "临沂",
+                "children": []
+            },
+            {
+                "value": 371400,
+                "check": false,
+                "little": false,
+                "label": "德州",
+                "children": []
+            },
+            {
+                "value": 371500,
+                "check": false,
+                "little": false,
+                "label": "聊城",
+                "children": []
+            },
+            {
+                "value": 371600,
+                "check": false,
+                "little": false,
+                "label": "滨州",
+                "children": []
+            },
+            {
+                "value": 371700,
+                "check": false,
+                "little": false,
+                "label": "菏泽",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 41,
+        "check": false,
+        "little": false,
+        "label": "河南",
+        "children": [
+            {
+                "value": 410100,
+                "check": false,
+                "little": false,
+                "label": "郑州",
+                "children": []
+            },
+            {
+                "value": 410200,
+                "check": false,
+                "little": false,
+                "label": "开封",
+                "children": []
+            },
+            {
+                "value": 410300,
+                "check": false,
+                "little": false,
+                "label": "洛阳",
+                "children": []
+            },
+            {
+                "value": 410400,
+                "check": false,
+                "little": false,
+                "label": "平顶山",
+                "children": []
+            },
+            {
+                "value": 410500,
+                "check": false,
+                "little": false,
+                "label": "安阳",
+                "children": []
+            },
+            {
+                "value": 410600,
+                "check": false,
+                "little": false,
+                "label": "鹤壁",
+                "children": []
+            },
+            {
+                "value": 410700,
+                "check": false,
+                "little": false,
+                "label": "新乡",
+                "children": []
+            },
+            {
+                "value": 410800,
+                "check": false,
+                "little": false,
+                "label": "焦作",
+                "children": []
+            },
+            {
+                "value": 410900,
+                "check": false,
+                "little": false,
+                "label": "濮阳",
+                "children": []
+            },
+            {
+                "value": 411000,
+                "check": false,
+                "little": false,
+                "label": "许昌",
+                "children": []
+            },
+            {
+                "value": 411100,
+                "check": false,
+                "little": false,
+                "label": "漯河",
+                "children": []
+            },
+            {
+                "value": 411200,
+                "check": false,
+                "little": false,
+                "label": "三门峡",
+                "children": []
+            },
+            {
+                "value": 411300,
+                "check": false,
+                "little": false,
+                "label": "南阳",
+                "children": []
+            },
+            {
+                "value": 411400,
+                "check": false,
+                "little": false,
+                "label": "商丘",
+                "children": []
+            },
+            {
+                "value": 411500,
+                "check": false,
+                "little": false,
+                "label": "信阳",
+                "children": []
+            },
+            {
+                "value": 411600,
+                "check": false,
+                "little": false,
+                "label": "周口",
+                "children": []
+            },
+            {
+                "value": 411700,
+                "check": false,
+                "little": false,
+                "label": "驻马店",
+                "children": []
+            },
+            {
+                "value": 419001,
+                "check": false,
+                "little": false,
+                "label": "济源",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 42,
+        "check": false,
+        "little": false,
+        "label": "湖北",
+        "children": [
+            {
+                "value": 420100,
+                "check": false,
+                "little": false,
+                "label": "武汉",
+                "children": []
+            },
+            {
+                "value": 420200,
+                "check": false,
+                "little": false,
+                "label": "黄石",
+                "children": []
+            },
+            {
+                "value": 420300,
+                "check": false,
+                "little": false,
+                "label": "十堰",
+                "children": []
+            },
+            {
+                "value": 420500,
+                "check": false,
+                "little": false,
+                "label": "宜昌",
+                "children": []
+            },
+            {
+                "value": 420600,
+                "check": false,
+                "little": false,
+                "label": "襄阳",
+                "children": []
+            },
+            {
+                "value": 420700,
+                "check": false,
+                "little": false,
+                "label": "鄂州",
+                "children": []
+            },
+            {
+                "value": 420800,
+                "check": false,
+                "little": false,
+                "label": "荆门",
+                "children": []
+            },
+            {
+                "value": 420900,
+                "check": false,
+                "little": false,
+                "label": "孝感",
+                "children": []
+            },
+            {
+                "value": 421000,
+                "check": false,
+                "little": false,
+                "label": "荆州",
+                "children": []
+            },
+            {
+                "value": 421100,
+                "check": false,
+                "little": false,
+                "label": "黄冈",
+                "children": []
+            },
+            {
+                "value": 421200,
+                "check": false,
+                "little": false,
+                "label": "咸宁",
+                "children": []
+            },
+            {
+                "value": 421300,
+                "check": false,
+                "little": false,
+                "label": "随州",
+                "children": []
+            },
+            {
+                "value": 422800,
+                "check": false,
+                "little": false,
+                "label": "恩施",
+                "children": []
+            },
+            {
+                "value": 429004,
+                "check": false,
+                "little": false,
+                "label": "仙桃",
+                "children": []
+            },
+            {
+                "value": 429005,
+                "check": false,
+                "little": false,
+                "label": "潜江",
+                "children": []
+            },
+            {
+                "value": 429006,
+                "check": false,
+                "little": false,
+                "label": "天门",
+                "children": []
+            },
+            {
+                "value": 429021,
+                "check": false,
+                "little": false,
+                "label": "神农架",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 43,
+        "check": false,
+        "little": false,
+        "label": "湖南",
+        "children": [
+            {
+                "value": 430100,
+                "check": false,
+                "little": false,
+                "label": "长沙",
+                "children": []
+            },
+            {
+                "value": 430200,
+                "check": false,
+                "little": false,
+                "label": "株洲",
+                "children": []
+            },
+            {
+                "value": 430300,
+                "check": false,
+                "little": false,
+                "label": "湘潭",
+                "children": []
+            },
+            {
+                "value": 430400,
+                "check": false,
+                "little": false,
+                "label": "衡阳",
+                "children": []
+            },
+            {
+                "value": 430500,
+                "check": false,
+                "little": false,
+                "label": "邵阳",
+                "children": []
+            },
+            {
+                "value": 430600,
+                "check": false,
+                "little": false,
+                "label": "岳阳",
+                "children": []
+            },
+            {
+                "value": 430700,
+                "check": false,
+                "little": false,
+                "label": "常德",
+                "children": []
+            },
+            {
+                "value": 430800,
+                "check": false,
+                "little": false,
+                "label": "张家界",
+                "children": []
+            },
+            {
+                "value": 430900,
+                "check": false,
+                "little": false,
+                "label": "益阳",
+                "children": []
+            },
+            {
+                "value": 431000,
+                "check": false,
+                "little": false,
+                "label": "郴州",
+                "children": []
+            },
+            {
+                "value": 431100,
+                "check": false,
+                "little": false,
+                "label": "永州",
+                "children": []
+            },
+            {
+                "value": 431200,
+                "check": false,
+                "little": false,
+                "label": "怀化",
+                "children": []
+            },
+            {
+                "value": 431300,
+                "check": false,
+                "little": false,
+                "label": "娄底",
+                "children": []
+            },
+            {
+                "value": 433100,
+                "check": false,
+                "little": false,
+                "label": "湘西",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 44,
+        "check": false,
+        "little": false,
+        "label": "广东",
+        "children": [
+            {
+                "value": 440100,
+                "check": false,
+                "little": false,
+                "label": "广州",
+                "children": []
+            },
+            {
+                "value": 440200,
+                "check": false,
+                "little": false,
+                "label": "韶关",
+                "children": []
+            },
+            {
+                "value": 440300,
+                "check": false,
+                "little": false,
+                "label": "深圳",
+                "children": []
+            },
+            {
+                "value": 440400,
+                "check": false,
+                "little": false,
+                "label": "珠海",
+                "children": []
+            },
+            {
+                "value": 440500,
+                "check": false,
+                "little": false,
+                "label": "汕头",
+                "children": []
+            },
+            {
+                "value": 440600,
+                "check": false,
+                "little": false,
+                "label": "佛山",
+                "children": []
+            },
+            {
+                "value": 440700,
+                "check": false,
+                "little": false,
+                "label": "江门",
+                "children": []
+            },
+            {
+                "value": 440800,
+                "check": false,
+                "little": false,
+                "label": "湛江",
+                "children": []
+            },
+            {
+                "value": 440900,
+                "check": false,
+                "little": false,
+                "label": "茂名",
+                "children": []
+            },
+            {
+                "value": 441200,
+                "check": false,
+                "little": false,
+                "label": "肇庆",
+                "children": []
+            },
+            {
+                "value": 441300,
+                "check": false,
+                "little": false,
+                "label": "惠州",
+                "children": []
+            },
+            {
+                "value": 441400,
+                "check": false,
+                "little": false,
+                "label": "梅州",
+                "children": []
+            },
+            {
+                "value": 441500,
+                "check": false,
+                "little": false,
+                "label": "汕尾",
+                "children": []
+            },
+            {
+                "value": 441600,
+                "check": false,
+                "little": false,
+                "label": "河源",
+                "children": []
+            },
+            {
+                "value": 441700,
+                "check": false,
+                "little": false,
+                "label": "阳江",
+                "children": []
+            },
+            {
+                "value": 441800,
+                "check": false,
+                "little": false,
+                "label": "清远",
+                "children": []
+            },
+            {
+                "value": 441900,
+                "check": false,
+                "little": false,
+                "label": "东莞",
+                "children": []
+            },
+            {
+                "value": 442000,
+                "check": false,
+                "little": false,
+                "label": "中山",
+                "children": []
+            },
+            {
+                "value": 445100,
+                "check": false,
+                "little": false,
+                "label": "潮州",
+                "children": []
+            },
+            {
+                "value": 445200,
+                "check": false,
+                "little": false,
+                "label": "揭阳",
+                "children": []
+            },
+            {
+                "value": 445300,
+                "check": false,
+                "little": false,
+                "label": "云浮",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 45,
+        "check": false,
+        "little": false,
+        "label": "广西",
+        "children": [
+            {
+                "value": 450100,
+                "check": false,
+                "little": false,
+                "label": "南宁",
+                "children": []
+            },
+            {
+                "value": 450200,
+                "check": false,
+                "little": false,
+                "label": "柳州",
+                "children": []
+            },
+            {
+                "value": 450300,
+                "check": false,
+                "little": false,
+                "label": "桂林",
+                "children": []
+            },
+            {
+                "value": 450400,
+                "check": false,
+                "little": false,
+                "label": "梧州",
+                "children": []
+            },
+            {
+                "value": 450500,
+                "check": false,
+                "little": false,
+                "label": "北海",
+                "children": []
+            },
+            {
+                "value": 450600,
+                "check": false,
+                "little": false,
+                "label": "防城港",
+                "children": []
+            },
+            {
+                "value": 450700,
+                "check": false,
+                "little": false,
+                "label": "钦州",
+                "children": []
+            },
+            {
+                "value": 450800,
+                "check": false,
+                "little": false,
+                "label": "贵港",
+                "children": []
+            },
+            {
+                "value": 450900,
+                "check": false,
+                "little": false,
+                "label": "玉林",
+                "children": []
+            },
+            {
+                "value": 451000,
+                "check": false,
+                "little": false,
+                "label": "百色",
+                "children": []
+            },
+            {
+                "value": 451100,
+                "check": false,
+                "little": false,
+                "label": "贺州",
+                "children": []
+            },
+            {
+                "value": 451200,
+                "check": false,
+                "little": false,
+                "label": "河池",
+                "children": []
+            },
+            {
+                "value": 451300,
+                "check": false,
+                "little": false,
+                "label": "来宾",
+                "children": []
+            },
+            {
+                "value": 451400,
+                "check": false,
+                "little": false,
+                "label": "崇左",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 46,
+        "check": false,
+        "little": false,
+        "label": "海南",
+        "children": [
+            {
+                "value": 460100,
+                "check": false,
+                "little": false,
+                "label": "海口",
+                "children": []
+            },
+            {
+                "value": 460200,
+                "check": false,
+                "little": false,
+                "label": "三亚",
+                "children": []
+            },
+            {
+                "value": 460300,
+                "check": false,
+                "little": false,
+                "label": "三沙",
+                "children": []
+            },
+            {
+                "value": 460400,
+                "check": false,
+                "little": false,
+                "label": "儋州",
+                "children": []
+            },
+            {
+                "value": 469001,
+                "check": false,
+                "little": false,
+                "label": "五指山",
+                "children": []
+            },
+            {
+                "value": 469002,
+                "check": false,
+                "little": false,
+                "label": "琼海",
+                "children": []
+            },
+            {
+                "value": 469005,
+                "check": false,
+                "little": false,
+                "label": "文昌",
+                "children": []
+            },
+            {
+                "value": 469006,
+                "check": false,
+                "little": false,
+                "label": "万宁",
+                "children": []
+            },
+            {
+                "value": 469007,
+                "check": false,
+                "little": false,
+                "label": "东方",
+                "children": []
+            },
+            {
+                "value": 469021,
+                "check": false,
+                "little": false,
+                "label": "定安",
+                "children": []
+            },
+            {
+                "value": 469022,
+                "check": false,
+                "little": false,
+                "label": "屯昌",
+                "children": []
+            },
+            {
+                "value": 469023,
+                "check": false,
+                "little": false,
+                "label": "澄迈",
+                "children": []
+            },
+            {
+                "value": 469024,
+                "check": false,
+                "little": false,
+                "label": "临高",
+                "children": []
+            },
+            {
+                "value": 469025,
+                "check": false,
+                "little": false,
+                "label": "白沙",
+                "children": []
+            },
+            {
+                "value": 469026,
+                "check": false,
+                "little": false,
+                "label": "昌江",
+                "children": []
+            },
+            {
+                "value": 469027,
+                "check": false,
+                "little": false,
+                "label": "乐东",
+                "children": []
+            },
+            {
+                "value": 469028,
+                "check": false,
+                "little": false,
+                "label": "陵水",
+                "children": []
+            },
+            {
+                "value": 469029,
+                "check": false,
+                "little": false,
+                "label": "保亭",
+                "children": []
+            },
+            {
+                "value": 469030,
+                "check": false,
+                "little": false,
+                "label": "琼中",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 50,
+        "check": false,
+        "little": false,
+        "label": "重庆",
+        "children": [
+            {
+                "value": 500101,
+                "check": false,
+                "little": false,
+                "label": "万州",
+                "children": []
+            },
+            {
+                "value": 500102,
+                "check": false,
+                "little": false,
+                "label": "涪陵",
+                "children": []
+            },
+            {
+                "value": 500103,
+                "check": false,
+                "little": false,
+                "label": "渝中",
+                "children": []
+            },
+            {
+                "value": 500104,
+                "check": false,
+                "little": false,
+                "label": "大渡口",
+                "children": []
+            },
+            {
+                "value": 500105,
+                "check": false,
+                "little": false,
+                "label": "江北",
+                "children": []
+            },
+            {
+                "value": 500106,
+                "check": false,
+                "little": false,
+                "label": "沙坪坝",
+                "children": []
+            },
+            {
+                "value": 500107,
+                "check": false,
+                "little": false,
+                "label": "九龙坡",
+                "children": []
+            },
+            {
+                "value": 500108,
+                "check": false,
+                "little": false,
+                "label": "南岸",
+                "children": []
+            },
+            {
+                "value": 500109,
+                "check": false,
+                "little": false,
+                "label": "北碚",
+                "children": []
+            },
+            {
+                "value": 500110,
+                "check": false,
+                "little": false,
+                "label": "綦江",
+                "children": []
+            },
+            {
+                "value": 500111,
+                "check": false,
+                "little": false,
+                "label": "大足",
+                "children": []
+            },
+            {
+                "value": 500112,
+                "check": false,
+                "little": false,
+                "label": "渝北",
+                "children": []
+            },
+            {
+                "value": 500113,
+                "check": false,
+                "little": false,
+                "label": "巴南",
+                "children": []
+            },
+            {
+                "value": 500114,
+                "check": false,
+                "little": false,
+                "label": "黔江",
+                "children": []
+            },
+            {
+                "value": 500115,
+                "check": false,
+                "little": false,
+                "label": "长寿",
+                "children": []
+            },
+            {
+                "value": 500116,
+                "check": false,
+                "little": false,
+                "label": "江津",
+                "children": []
+            },
+            {
+                "value": 500117,
+                "check": false,
+                "little": false,
+                "label": "合川",
+                "children": []
+            },
+            {
+                "value": 500118,
+                "check": false,
+                "little": false,
+                "label": "永川",
+                "children": []
+            },
+            {
+                "value": 500119,
+                "check": false,
+                "little": false,
+                "label": "南川",
+                "children": []
+            },
+            {
+                "value": 500120,
+                "check": false,
+                "little": false,
+                "label": "璧山",
+                "children": []
+            },
+            {
+                "value": 500151,
+                "check": false,
+                "little": false,
+                "label": "铜梁",
+                "children": []
+            },
+            {
+                "value": 500152,
+                "check": false,
+                "little": false,
+                "label": "潼南",
+                "children": []
+            },
+            {
+                "value": 500153,
+                "check": false,
+                "little": false,
+                "label": "荣昌",
+                "children": []
+            },
+            {
+                "value": 500154,
+                "check": false,
+                "little": false,
+                "label": "开州",
+                "children": []
+            },
+            {
+                "value": 500228,
+                "check": false,
+                "little": false,
+                "label": "梁平",
+                "children": []
+            },
+            {
+                "value": 500229,
+                "check": false,
+                "little": false,
+                "label": "城口",
+                "children": []
+            },
+            {
+                "value": 500230,
+                "check": false,
+                "little": false,
+                "label": "丰都",
+                "children": []
+            },
+            {
+                "value": 500231,
+                "check": false,
+                "little": false,
+                "label": "垫江",
+                "children": []
+            },
+            {
+                "value": 500232,
+                "check": false,
+                "little": false,
+                "label": "武隆",
+                "children": []
+            },
+            {
+                "value": 500233,
+                "check": false,
+                "little": false,
+                "label": "忠县",
+                "children": []
+            },
+            {
+                "value": 500235,
+                "check": false,
+                "little": false,
+                "label": "云阳",
+                "children": []
+            },
+            {
+                "value": 500236,
+                "check": false,
+                "little": false,
+                "label": "奉节",
+                "children": []
+            },
+            {
+                "value": 500237,
+                "check": false,
+                "little": false,
+                "label": "巫山",
+                "children": []
+            },
+            {
+                "value": 500238,
+                "check": false,
+                "little": false,
+                "label": "巫溪",
+                "children": []
+            },
+            {
+                "value": 500240,
+                "check": false,
+                "little": false,
+                "label": "石柱",
+                "children": []
+            },
+            {
+                "value": 500241,
+                "check": false,
+                "little": false,
+                "label": "秀山",
+                "children": []
+            },
+            {
+                "value": 500242,
+                "check": false,
+                "little": false,
+                "label": "酉阳",
+                "children": []
+            },
+            {
+                "value": 500243,
+                "check": false,
+                "little": false,
+                "label": "彭水",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 51,
+        "check": false,
+        "little": false,
+        "label": "四川",
+        "children": [
+            {
+                "value": 510100,
+                "check": false,
+                "little": false,
+                "label": "成都",
+                "children": []
+            },
+            {
+                "value": 510300,
+                "check": false,
+                "little": false,
+                "label": "自贡",
+                "children": []
+            },
+            {
+                "value": 510400,
+                "check": false,
+                "little": false,
+                "label": "攀枝花",
+                "children": []
+            },
+            {
+                "value": 510500,
+                "check": false,
+                "little": false,
+                "label": "泸州",
+                "children": []
+            },
+            {
+                "value": 510600,
+                "check": false,
+                "little": false,
+                "label": "德阳",
+                "children": []
+            },
+            {
+                "value": 510700,
+                "check": false,
+                "little": false,
+                "label": "绵阳",
+                "children": []
+            },
+            {
+                "value": 510800,
+                "check": false,
+                "little": false,
+                "label": "广元",
+                "children": []
+            },
+            {
+                "value": 510900,
+                "check": false,
+                "little": false,
+                "label": "遂宁",
+                "children": []
+            },
+            {
+                "value": 511000,
+                "check": false,
+                "little": false,
+                "label": "内江",
+                "children": []
+            },
+            {
+                "value": 511100,
+                "check": false,
+                "little": false,
+                "label": "乐山",
+                "children": []
+            },
+            {
+                "value": 511300,
+                "check": false,
+                "little": false,
+                "label": "南充",
+                "children": []
+            },
+            {
+                "value": 511400,
+                "check": false,
+                "little": false,
+                "label": "眉山",
+                "children": []
+            },
+            {
+                "value": 511500,
+                "check": false,
+                "little": false,
+                "label": "宜宾",
+                "children": []
+            },
+            {
+                "value": 511600,
+                "check": false,
+                "little": false,
+                "label": "广安",
+                "children": []
+            },
+            {
+                "value": 511700,
+                "check": false,
+                "little": false,
+                "label": "达州",
+                "children": []
+            },
+            {
+                "value": 511800,
+                "check": false,
+                "little": false,
+                "label": "雅安",
+                "children": []
+            },
+            {
+                "value": 511900,
+                "check": false,
+                "little": false,
+                "label": "巴中",
+                "children": []
+            },
+            {
+                "value": 512000,
+                "check": false,
+                "little": false,
+                "label": "资阳",
+                "children": []
+            },
+            {
+                "value": 513200,
+                "check": false,
+                "little": false,
+                "label": "阿坝",
+                "children": []
+            },
+            {
+                "value": 513300,
+                "check": false,
+                "little": false,
+                "label": "甘孜",
+                "children": []
+            },
+            {
+                "value": 513400,
+                "check": false,
+                "little": false,
+                "label": "凉山",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 52,
+        "check": false,
+        "little": false,
+        "label": "贵州",
+        "children": [
+            {
+                "value": 520100,
+                "check": false,
+                "little": false,
+                "label": "贵阳",
+                "children": []
+            },
+            {
+                "value": 520200,
+                "check": false,
+                "little": false,
+                "label": "六盘水",
+                "children": []
+            },
+            {
+                "value": 520300,
+                "check": false,
+                "little": false,
+                "label": "遵义",
+                "children": []
+            },
+            {
+                "value": 520400,
+                "check": false,
+                "little": false,
+                "label": "安顺",
+                "children": []
+            },
+            {
+                "value": 520500,
+                "check": false,
+                "little": false,
+                "label": "毕节",
+                "children": []
+            },
+            {
+                "value": 520600,
+                "check": false,
+                "little": false,
+                "label": "铜仁",
+                "children": []
+            },
+            {
+                "value": 522300,
+                "check": false,
+                "little": false,
+                "label": "黔西南",
+                "children": []
+            },
+            {
+                "value": 522600,
+                "check": false,
+                "little": false,
+                "label": "黔东南",
+                "children": []
+            },
+            {
+                "value": 522700,
+                "check": false,
+                "little": false,
+                "label": "黔南",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 53,
+        "check": false,
+        "little": false,
+        "label": "云南",
+        "children": [
+            {
+                "value": 530100,
+                "check": false,
+                "little": false,
+                "label": "昆明",
+                "children": []
+            },
+            {
+                "value": 530300,
+                "check": false,
+                "little": false,
+                "label": "曲靖",
+                "children": []
+            },
+            {
+                "value": 530400,
+                "check": false,
+                "little": false,
+                "label": "玉溪",
+                "children": []
+            },
+            {
+                "value": 530500,
+                "check": false,
+                "little": false,
+                "label": "保山",
+                "children": []
+            },
+            {
+                "value": 530600,
+                "check": false,
+                "little": false,
+                "label": "昭通",
+                "children": []
+            },
+            {
+                "value": 530700,
+                "check": false,
+                "little": false,
+                "label": "丽江",
+                "children": []
+            },
+            {
+                "value": 530800,
+                "check": false,
+                "little": false,
+                "label": "普洱",
+                "children": []
+            },
+            {
+                "value": 530900,
+                "check": false,
+                "little": false,
+                "label": "临沧",
+                "children": []
+            },
+            {
+                "value": 532300,
+                "check": false,
+                "little": false,
+                "label": "楚雄",
+                "children": []
+            },
+            {
+                "value": 532500,
+                "check": false,
+                "little": false,
+                "label": "红河",
+                "children": []
+            },
+            {
+                "value": 532600,
+                "check": false,
+                "little": false,
+                "label": "文山",
+                "children": []
+            },
+            {
+                "value": 532800,
+                "check": false,
+                "little": false,
+                "label": "西双版纳",
+                "children": []
+            },
+            {
+                "value": 532900,
+                "check": false,
+                "little": false,
+                "label": "大理",
+                "children": []
+            },
+            {
+                "value": 533100,
+                "check": false,
+                "little": false,
+                "label": "德宏",
+                "children": []
+            },
+            {
+                "value": 533300,
+                "check": false,
+                "little": false,
+                "label": "怒江",
+                "children": []
+            },
+            {
+                "value": 533400,
+                "check": false,
+                "little": false,
+                "label": "迪庆",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 54,
+        "check": false,
+        "little": false,
+        "label": "西藏",
+        "children": [
+            {
+                "value": 540100,
+                "check": false,
+                "little": false,
+                "label": "拉萨",
+                "children": []
+            },
+            {
+                "value": 540200,
+                "check": false,
+                "little": false,
+                "label": "日喀则",
+                "children": []
+            },
+            {
+                "value": 540300,
+                "check": false,
+                "little": false,
+                "label": "昌都",
+                "children": []
+            },
+            {
+                "value": 540400,
+                "check": false,
+                "little": false,
+                "label": "林芝",
+                "children": []
+            },
+            {
+                "value": 540500,
+                "check": false,
+                "little": false,
+                "label": "山南",
+                "children": []
+            },
+            {
+                "value": 542400,
+                "check": false,
+                "little": false,
+                "label": "那曲",
+                "children": []
+            },
+            {
+                "value": 542500,
+                "check": false,
+                "little": false,
+                "label": "阿里",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 61,
+        "check": false,
+        "little": false,
+        "label": "陕西",
+        "children": [
+            {
+                "value": 610100,
+                "check": false,
+                "little": false,
+                "label": "西安",
+                "children": []
+            },
+            {
+                "value": 610200,
+                "check": false,
+                "little": false,
+                "label": "铜川",
+                "children": []
+            },
+            {
+                "value": 610300,
+                "check": false,
+                "little": false,
+                "label": "宝鸡",
+                "children": []
+            },
+            {
+                "value": 610400,
+                "check": false,
+                "little": false,
+                "label": "咸阳",
+                "children": []
+            },
+            {
+                "value": 610500,
+                "check": false,
+                "little": false,
+                "label": "渭南",
+                "children": []
+            },
+            {
+                "value": 610600,
+                "check": false,
+                "little": false,
+                "label": "延安",
+                "children": []
+            },
+            {
+                "value": 610700,
+                "check": false,
+                "little": false,
+                "label": "汉中",
+                "children": []
+            },
+            {
+                "value": 610800,
+                "check": false,
+                "little": false,
+                "label": "榆林",
+                "children": []
+            },
+            {
+                "value": 610900,
+                "check": false,
+                "little": false,
+                "label": "安康",
+                "children": []
+            },
+            {
+                "value": 611000,
+                "check": false,
+                "little": false,
+                "label": "商洛",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 62,
+        "check": false,
+        "little": false,
+        "label": "甘肃",
+        "children": [
+            {
+                "value": 620100,
+                "check": false,
+                "little": false,
+                "label": "兰州",
+                "children": []
+            },
+            {
+                "value": 620200,
+                "check": false,
+                "little": false,
+                "label": "嘉峪关",
+                "children": []
+            },
+            {
+                "value": 620300,
+                "check": false,
+                "little": false,
+                "label": "金昌",
+                "children": []
+            },
+            {
+                "value": 620400,
+                "check": false,
+                "little": false,
+                "label": "白银",
+                "children": []
+            },
+            {
+                "value": 620500,
+                "check": false,
+                "little": false,
+                "label": "天水",
+                "children": []
+            },
+            {
+                "value": 620600,
+                "check": false,
+                "little": false,
+                "label": "武威",
+                "children": []
+            },
+            {
+                "value": 620700,
+                "check": false,
+                "little": false,
+                "label": "张掖",
+                "children": []
+            },
+            {
+                "value": 620800,
+                "check": false,
+                "little": false,
+                "label": "平凉",
+                "children": []
+            },
+            {
+                "value": 620900,
+                "check": false,
+                "little": false,
+                "label": "酒泉",
+                "children": []
+            },
+            {
+                "value": 621000,
+                "check": false,
+                "little": false,
+                "label": "庆阳",
+                "children": []
+            },
+            {
+                "value": 621100,
+                "check": false,
+                "little": false,
+                "label": "定西",
+                "children": []
+            },
+            {
+                "value": 621200,
+                "check": false,
+                "little": false,
+                "label": "陇南",
+                "children": []
+            },
+            {
+                "value": 622900,
+                "check": false,
+                "little": false,
+                "label": "临夏",
+                "children": []
+            },
+            {
+                "value": 623000,
+                "check": false,
+                "little": false,
+                "label": "甘南",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 63,
+        "check": false,
+        "little": false,
+        "label": "青海",
+        "children": [
+            {
+                "value": 630100,
+                "check": false,
+                "little": false,
+                "label": "西宁",
+                "children": []
+            },
+            {
+                "value": 630200,
+                "check": false,
+                "little": false,
+                "label": "海东",
+                "children": []
+            },
+            {
+                "value": 632200,
+                "check": false,
+                "little": false,
+                "label": "海北",
+                "children": []
+            },
+            {
+                "value": 632300,
+                "check": false,
+                "little": false,
+                "label": "黄南",
+                "children": []
+            },
+            {
+                "value": 632500,
+                "check": false,
+                "little": false,
+                "label": "海南",
+                "children": []
+            },
+            {
+                "value": 632600,
+                "check": false,
+                "little": false,
+                "label": "果洛",
+                "children": []
+            },
+            {
+                "value": 632700,
+                "check": false,
+                "little": false,
+                "label": "玉树",
+                "children": []
+            },
+            {
+                "value": 632800,
+                "check": false,
+                "little": false,
+                "label": "海西",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 64,
+        "check": false,
+        "little": false,
+        "label": "宁夏",
+        "children": [
+            {
+                "value": 640100,
+                "check": false,
+                "little": false,
+                "label": "银川",
+                "children": []
+            },
+            {
+                "value": 640200,
+                "check": false,
+                "little": false,
+                "label": "石嘴山",
+                "children": []
+            },
+            {
+                "value": 640300,
+                "check": false,
+                "little": false,
+                "label": "吴忠",
+                "children": []
+            },
+            {
+                "value": 640400,
+                "check": false,
+                "little": false,
+                "label": "固原",
+                "children": []
+            },
+            {
+                "value": 640500,
+                "check": false,
+                "little": false,
+                "label": "中卫",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 65,
+        "check": false,
+        "little": false,
+        "label": "新疆",
+        "children": [
+            {
+                "value": 650100,
+                "check": false,
+                "little": false,
+                "label": "乌鲁木齐",
+                "children": []
+            },
+            {
+                "value": 650200,
+                "check": false,
+                "little": false,
+                "label": "克拉玛依",
+                "children": []
+            },
+            {
+                "value": 650400,
+                "check": false,
+                "little": false,
+                "label": "吐鲁番",
+                "children": []
+            },
+            {
+                "value": 650500,
+                "check": false,
+                "little": false,
+                "label": "哈密",
+                "children": []
+            },
+            {
+                "value": 652300,
+                "check": false,
+                "little": false,
+                "label": "昌吉",
+                "children": []
+            },
+            {
+                "value": 652700,
+                "check": false,
+                "little": false,
+                "label": "博尔塔拉",
+                "children": []
+            },
+            {
+                "value": 652800,
+                "check": false,
+                "little": false,
+                "label": "巴音郭楞",
+                "children": []
+            },
+            {
+                "value": 652900,
+                "check": false,
+                "little": false,
+                "label": "阿克苏",
+                "children": []
+            },
+            {
+                "value": 653000,
+                "check": false,
+                "little": false,
+                "label": "克孜勒苏",
+                "children": []
+            },
+            {
+                "value": 653100,
+                "check": false,
+                "little": false,
+                "label": "喀什",
+                "children": []
+            },
+            {
+                "value": 653200,
+                "check": false,
+                "little": false,
+                "label": "和田",
+                "children": []
+            },
+            {
+                "value": 654000,
+                "check": false,
+                "little": false,
+                "label": "伊犁",
+                "children": []
+            },
+            {
+                "value": 654200,
+                "check": false,
+                "little": false,
+                "label": "塔城",
+                "children": []
+            },
+            {
+                "value": 654300,
+                "check": false,
+                "little": false,
+                "label": "阿勒泰",
+                "children": []
+            },
+            {
+                "value": 659001,
+                "check": false,
+                "little": false,
+                "label": "石河子",
+                "children": []
+            },
+            {
+                "value": 659002,
+                "check": false,
+                "little": false,
+                "label": "阿拉尔",
+                "children": []
+            },
+            {
+                "value": 659003,
+                "check": false,
+                "little": false,
+                "label": "图木舒克",
+                "children": []
+            },
+            {
+                "value": 659004,
+                "check": false,
+                "little": false,
+                "label": "五家渠",
+                "children": []
+            },
+            {
+                "value": 659005,
+                "check": false,
+                "little": false,
+                "label": "北屯",
+                "children": []
+            },
+            {
+                "value": 659006,
+                "check": false,
+                "little": false,
+                "label": "铁门关",
+                "children": []
+            },
+            {
+                "value": 659007,
+                "check": false,
+                "little": false,
+                "label": "双河",
+                "children": []
+            },
+            {
+                "value": 659008,
+                "check": false,
+                "little": false,
+                "label": "可克达拉",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 71,
+        "check": false,
+        "little": false,
+        "label": "台湾",
+        "children": [
+            {
+                "value": 710001,
+                "check": false,
+                "little": false,
+                "label": "台北市",
+                "children": []
+            },
+            {
+                "value": 710002,
+                "check": false,
+                "little": false,
+                "label": "高雄市",
+                "children": []
+            },
+            {
+                "value": 710003,
+                "check": false,
+                "little": false,
+                "label": "基隆",
+                "children": []
+            },
+            {
+                "value": 710004,
+                "check": false,
+                "little": false,
+                "label": "台中市",
+                "children": []
+            },
+            {
+                "value": 710005,
+                "check": false,
+                "little": false,
+                "label": "台南市",
+                "children": []
+            },
+            {
+                "value": 710006,
+                "check": false,
+                "little": false,
+                "label": "新竹市",
+                "children": []
+            },
+            {
+                "value": 710007,
+                "check": false,
+                "little": false,
+                "label": "嘉义市",
+                "children": []
+            },
+            {
+                "value": 710008,
+                "check": false,
+                "little": false,
+                "label": "台北县",
+                "children": []
+            },
+            {
+                "value": 710009,
+                "check": false,
+                "little": false,
+                "label": "宜兰",
+                "children": []
+            },
+            {
+                "value": 710010,
+                "check": false,
+                "little": false,
+                "label": "桃园",
+                "children": []
+            },
+            {
+                "value": 710011,
+                "check": false,
+                "little": false,
+                "label": "新竹县",
+                "children": []
+            },
+            {
+                "value": 710012,
+                "check": false,
+                "little": false,
+                "label": "苗栗",
+                "children": []
+            },
+            {
+                "value": 710013,
+                "check": false,
+                "little": false,
+                "label": "台中县",
+                "children": []
+            },
+            {
+                "value": 710014,
+                "check": false,
+                "little": false,
+                "label": "彰化",
+                "children": []
+            },
+            {
+                "value": 710015,
+                "check": false,
+                "little": false,
+                "label": "南投",
+                "children": []
+            },
+            {
+                "value": 710016,
+                "check": false,
+                "little": false,
+                "label": "云林",
+                "children": []
+            },
+            {
+                "value": 710017,
+                "check": false,
+                "little": false,
+                "label": "嘉义县",
+                "children": []
+            },
+            {
+                "value": 710018,
+                "check": false,
+                "little": false,
+                "label": "台南县",
+                "children": []
+            },
+            {
+                "value": 710019,
+                "check": false,
+                "little": false,
+                "label": "高雄县",
+                "children": []
+            },
+            {
+                "value": 710020,
+                "check": false,
+                "little": false,
+                "label": "屏东",
+                "children": []
+            },
+            {
+                "value": 710021,
+                "check": false,
+                "little": false,
+                "label": "澎湖",
+                "children": []
+            },
+            {
+                "value": 710022,
+                "check": false,
+                "little": false,
+                "label": "台东",
+                "children": []
+            },
+            {
+                "value": 710023,
+                "check": false,
+                "little": false,
+                "label": "花莲",
+                "children": []
+            }
+        ]
+    },
+    {
+        "value": 81,
+        "check": false,
+        "little": false,
+        "label": "香港",
+        "children": []
+    },
+    {
+        "value": 82,
+        "check": false,
+        "little": false,
+        "label": "澳门",
+        "children": []
+    }
+]
